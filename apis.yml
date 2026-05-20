@@ -7,4 +7,9 @@ description: 'Fortune 1000 company Stonex Group. Public API documentation has no
 created: '2026-05-05'
 modified: '2026-05-05'
 specificationVersion: '0.19'
+common:
+  - type: GitHubOrganization
+    url: https://github.com/stonex
+  - type: LinkedIn
+    url: https://www.linkedin.com/company/stonex-group
 apis: []
